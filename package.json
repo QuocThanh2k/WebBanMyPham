@@ -4,9 +4,22 @@
     "description": "SVG to PNG conversion for Thanh Tam Cosmetics",
     "main": "convert-svg.js",
     "scripts": {
-        "convert": "node convert-svg.js"
+        "start": "node index.js"
     },
     "dependencies": {
+        "express": "^5.2.1",
         "sharp": "^0.33.0"
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/QuocThanh2k/WebBanMyPham.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "bugs": {
+        "url": "https://github.com/QuocThanh2k/WebBanMyPham/issues"
+    },
+    "homepage": "https://github.com/QuocThanh2k/WebBanMyPham#readme"
 }
