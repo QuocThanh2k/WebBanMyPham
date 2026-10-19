@@ -8,7 +8,6 @@
     "start": "node server/index.js"
   },
   "dependencies": {
-    "ten-thu-vien-khac": "1.0.0",
     "cors": "^2.8.5"
   }
 }
